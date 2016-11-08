@@ -10,7 +10,7 @@ class CMS extends React.Component {
         <h1>Content Management System</h1>
         <Link to="/">
         <button type="button" className="btn btn-default">Home</button>
-        </Link>
+        </Link> 
 
         <Link to="/page">
         <button type="button" className="btn btn-default">Page</button>
